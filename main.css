@@ -11,7 +11,7 @@ body {
   margin: 0px;
   background-color: springgreen;
   font-family: Impact, Charcoal, sans-serif;
-  overflow: hidden;
+  
 }
 
 p {
@@ -20,12 +20,15 @@ p {
 
 #option1 {
   background: red;
+  overflow: hidden;
 }
 
 #option2 {
     background-color: yellow;
+    overflow: hidden;
 }
 
 #option3 {
     background-color: orange;
+    overflow: hidden;
 }
