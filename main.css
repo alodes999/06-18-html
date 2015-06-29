@@ -14,21 +14,28 @@ body {
   
 }
 
+h1 {
+  overflow: hidden;
+}
+
 p {
   margin: 0px;
 }
 
 #option1 {
   background: red;
+  height: 250px;
   overflow: hidden;
 }
 
 #option2 {
-    background-color: yellow;
-    overflow: hidden;
+  background-color: yellow;
+  height: 250px;
+  overflow: hidden;
 }
 
 #option3 {
-    background-color: orange;
-    overflow: hidden;
+  background-color: orange;
+  height: 250px;
+  overflow: hidden;
 }
