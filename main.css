@@ -11,6 +11,7 @@ body {
   margin: 0px;
   background-color: springgreen;
   font-family: Impact, Charcoal, sans-serif;
+  overflow: hidden;
 }
 
 p {
