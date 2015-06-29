@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  background-color: springgreen;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+p {
+  margin: 0px;
+}
+
+#option1 {
+  background: red;
+}
+
+#option2 {
+    background-color: yellow;
+}
+
+#option3 {
+    background-color: orange;
+}
